@@ -1,4 +1,4 @@
-# Here you can add your language strings. just add on every dict new key with your language code and insert the value.
+en# Here you can add your language strings. just add on every dict new key with your language code and insert the value.
 # keep you're mind that languages are displayed accordingly to your client (app, software) lang.
 
 strings = {
